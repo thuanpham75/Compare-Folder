@@ -1,0 +1,90 @@
+body {
+	background-image: url("../images/bg4.jpg");
+	font-weight: bold;
+} 
+h2 {
+	color: blue;
+
+
+}
+.content {
+	background-image: url("../images/bg1.jpg");
+	margin-top: 50px;
+	margin-bottom: 50px;
+
+}
+.dir {
+
+}
+.content .title {
+	padding: 20px;	
+	text-align: center;
+
+}
+.logo {
+	padding-top: 20px;
+	margin-left: 300px;
+}
+label {
+	font-weight: bold;
+	font-size: 20px;
+	color: 
+}
+img {
+	width: 500px;
+	height: auto;
+}
+a{
+	cursor: pointer;
+	padding: 10px;
+	background: none;
+	font-size: 14px;
+		font-weight: bold;
+
+}
+li {
+	margin-top: 10px;
+	padding-bottom: 20px;
+}
+ul {
+	margin-top: -20px;
+	display: inline-block;
+	padding: 20px;
+	border-color: green;
+}
+input {
+	font-weight: bold;
+}
+.result span{
+	color: red;
+	margin: auto 340px;
+	font-size: 2em;
+	font-weight: bold;
+	margin-bottom: 100px;
+}
+.result .kq {
+	text-align: center;
+
+}
+.address1 {
+	margin:auto 130px;
+}
+.address1 li {
+	list-style: none;
+	margin-top: -10px;
+	font-weight: bold;
+}
+.address2 li {
+	list-style: none;
+	margin-top: -10px;
+
+}
+.address2{
+	margin:auto 130px;
+}
+.fa-folder:before {
+	color: 	#F4D67A;
+}
+/*#hidden {
+	display: none;
+}*/
